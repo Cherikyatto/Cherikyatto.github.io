@@ -22,9 +22,9 @@ A sample blog page that demonstrates the accessing of github meta data.
 
 ## Additional Reading
 
-- If you're recieving incorrect/missing data, you may need to perform a Github API<a href="https://github.com/jekyll/github-metadata/blob/master/docs/authentication.md"> authentication</a>.
-- Go through this <a href="https://jekyll.github.io/github-metadata/">README</a> for more details on the topic.
-- <a href= "https://github.com/jekyll/github-metadata/blob/master/docs/site.github.md">This page</a> highlights all the feilds you can access with github-metadata.
+- If you're recieving incorrect/missing data, you may need to perform a Github API<a href="#"> authentication</a>.
+- Go through this <a href="#">README</a> for more details on the topic.
+- <a href= "#">This page</a> highlights all the feilds you can access with github-metadata.
   <br />
 
 ## Example MetaData
