@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /What :D/
 subtitle: <a href='#'>My GitHub Name:</a> Cherikyatto.
 
 profile:
