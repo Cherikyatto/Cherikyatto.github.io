@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>My GitHub Name:</a> Cherikyatto.
+subtitle:My GitHub Name: Cherikyatto.
 
 profile:
   align: right
