@@ -11,16 +11,7 @@ related_publications: true
 Every Coffe has a beautiful of it own.
 It's easy to drink coffe but hard to know why it so delicious.
 
-
 Here top 3 kind of coffe you must try in VietNam:
-
-
-
-
-
-
-    
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/EggCoffe.jpg" title="Cà Phê Trứng" class="img-fluid rounded z-depth-1" %}
